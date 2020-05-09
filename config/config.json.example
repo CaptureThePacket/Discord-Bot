@@ -1,0 +1,6 @@
+{
+    "prefix": "!",
+    "autoload_cogs": [
+        "sample_cog"
+    ]
+}
